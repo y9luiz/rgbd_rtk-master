@@ -1,0 +1,11 @@
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/klt_tracker_test.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/monocular_calibration.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/monocular_image_grabber.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/motion_estimator_test.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/rgbd_loader_test.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/common/CMakeFiles/rgbd_rtk_common.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/io/CMakeFiles/rgbd_rtk_io.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/motion_estimation/CMakeFiles/rgbd_rtk_motion_estimation.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/tracking/CMakeFiles/rgbd_rtk_tracking.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/visualization/CMakeFiles/rgbd_rtk_visualization.dir
+/home/luiz/Faculdade/Pesquisa/master/rgbd_rtk-master/build/applications/CMakeFiles/sequence_loader_test.dir
