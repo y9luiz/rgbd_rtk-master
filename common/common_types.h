@@ -67,6 +67,7 @@ struct Tracklet
 	{
 		start_ = idx;
 	}
+	float radius;
 };
 
 /*
